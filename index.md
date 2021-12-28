@@ -1,4 +1,4 @@
-# Project - Data Science Portfolio
+# Data Science Portfolio
 ---
 ## Machine learning
 
@@ -6,14 +6,14 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/fraud_detection)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/Financial-Models-Numerical-Methods)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/Financial-Models-Numerical-Methods)
 
 This is just a collection of topics and algorithms that in my opinion are interesting.
 
@@ -25,7 +25,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 ---
 ### LSTM Neural Network for Time Series Prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/LSTM-Neural-Network-for-Time-Series-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/LSTM-Neural-Network-for-Time-Series-Prediction)
 
 The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
@@ -34,7 +34,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/cnn-text-classification-tf#readme)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/cnn-text-classification-tf#readme)
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
@@ -43,7 +43,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 ---
 ### Awesome Machine Learning
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/awesome-machine-learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/awesome-machine-learning)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
@@ -52,7 +52,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 ---
 ### Gesture Recognizer
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/CNNGestureRecognizer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/CNNGestureRecognizer)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
@@ -65,7 +65,7 @@ Suggestion: Better to download Anaconda as it will take care of most of the othe
 ---
 ### Human Activity Recognition
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/grk05/LSTM-Human-Activity-Recognition)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GRK05/LSTM-Human-Activity-Recognition)
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
 
@@ -80,6 +80,5 @@ Compared to a classical approach, using a Recurrent Neural Networks (RNN) with L
 Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
 
 <center><img src="images/human_activity.png"/></center>
-
 
 
